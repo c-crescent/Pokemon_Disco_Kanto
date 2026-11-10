@@ -28,6 +28,10 @@
 SPC: 90(+10)  
 Notes: More stats because it needs them.
 
+> Eevee  
+Now also receives the 25% stat bonus from badge boosts.
+Now also learns Thunderbolt, Surf, and Flamethrower via TM.
+
 > Farfetch'd  
 ATK: 125(+50)  
 Notes: Slow glass cannon is a good enough niche especially with the new Razor Wind.
