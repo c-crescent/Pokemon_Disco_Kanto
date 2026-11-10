@@ -12,8 +12,8 @@ Moves:
 ; Characteristics of each move.
 	table_width MOVE_LENGTH, Moves
 	move POUND,        NO_ADDITIONAL_EFFECT,        40, NORMAL,       100, 35
-	move KARATE_CHOP,  NO_ADDITIONAL_EFFECT,        50, FIGHTING,     95, 25
-	move DOUBLESLAP,   TWO_TO_FIVE_ATTACKS_EFFECT,  20, NORMAL,       100, 35
+	move KARATE_CHOP,  NO_ADDITIONAL_EFFECT,        50, FIGHTING,      95, 25
+	move DOUBLESLAP,   ATTACK_TWICE_EFFECT,         30, NORMAL,       100, 35
 	move COMET_PUNCH,  TWO_TO_FIVE_ATTACKS_EFFECT,  25, NORMAL,       100, 25
 	move MEGA_PUNCH,   NO_ADDITIONAL_EFFECT,        80, NORMAL,        85, 20
 	move PAY_DAY,      PAY_DAY_EFFECT,              60, NORMAL,       100, 20
@@ -23,7 +23,7 @@ Moves:
 	move SCRATCH,      NO_ADDITIONAL_EFFECT,        40, NORMAL,       100, 35
 	move VICEGRIP,     NO_ADDITIONAL_EFFECT,        55, NORMAL,       100, 30
 	move GUILLOTINE,   OHKO_EFFECT,                  1, NORMAL,        30,  5
-	move RAZOR_WIND,   HYPER_BEAM_EFFECT,           80, NORMAL,       100, 10
+	move RAZOR_WIND,   HYPER_BEAM_EFFECT,          130, FLYING,       100, 10
 	move SWORDS_DANCE, ATTACK_UP2_EFFECT,            0, BIRD,         100, 30
 	move CUT,          NO_ADDITIONAL_EFFECT,        55, BUG,          100, 30
 	move GUST,         NO_ADDITIONAL_EFFECT,        40, FLYING,       100, 35
@@ -37,7 +37,7 @@ Moves:
 	move DOUBLE_KICK,  ATTACK_TWICE_EFFECT,         30, FIGHTING,     100, 30
 	move MEGA_KICK,    NO_ADDITIONAL_EFFECT,       120, NORMAL,        85, 10
 	move JUMP_KICK,    JUMP_KICK_EFFECT,            90, FIGHTING,      95, 25
-	move ROLLING_KICK, FLINCH_SIDE_EFFECT2,         70, FIGHTING,     100, 15
+	move ROLLING_KICK, FLINCH_SIDE_EFFECT2,         75, FIGHTING,     100, 15
 	move SAND_ATTACK,  ACCURACY_DOWN1_EFFECT,        0, BIRD,         100, 15
 	move HEADBUTT,     FLINCH_SIDE_EFFECT2,         70, NORMAL,       100, 15
 	move HORN_ATTACK,  NO_ADDITIONAL_EFFECT,        65, NORMAL,       100, 25
@@ -51,7 +51,7 @@ Moves:
 	move DOUBLE_EDGE,  RECOIL_EFFECT,              120, NORMAL,       100, 15
 	move TAIL_WHIP,    DEFENSE_DOWN1_EFFECT,         0, BIRD,         100, 30
 	move POISON_STING, POISON_SIDE_EFFECT1,         35, POISON,       100, 35
-	move TWINEEDLE,    TWINEEDLE_EFFECT,            40, BUG,          100, 20
+	move TWINEEDLE,    TWINEEDLE_EFFECT,            45, BUG,          100, 20
 	move PIN_MISSILE,  TWO_TO_FIVE_ATTACKS_EFFECT,  20, BUG,          100, 30
 	move LEER,         DEFENSE_DOWN1_EFFECT,         0, BIRD,         100, 30
 	move BITE,         FLINCH_SIDE_EFFECT1,         60, NORMAL,       100, 25
@@ -62,7 +62,7 @@ Moves:
 	move SONICBOOM,    SPECIAL_DAMAGE_EFFECT,        1, NORMAL,       100, 20
 	move DISABLE,      DISABLE_EFFECT,               0, BIRD,          75, 20
 	move ACID,         DEFENSE_DOWN_SIDE_EFFECT,    65, POISON,       100, 30
-	move EMBER,        BURN_SIDE_EFFECT1,           40, FIRE,         100, 25
+	move EMBER,        BURN_SIDE_EFFECT1,           45, FIRE,         100, 25
 	move FLAMETHROWER, BURN_SIDE_EFFECT1,           95, FIRE,         100, 15
 	move MIST,         MIST_EFFECT,                  0, ICE,          100, 30
 	move WATER_GUN,    NO_ADDITIONAL_EFFECT,        40, WATER,        100, 25
@@ -76,13 +76,13 @@ Moves:
 	move HYPER_BEAM,   HYPER_BEAM_EFFECT,          150, NORMAL,        90,  5
 	move PECK,         NO_ADDITIONAL_EFFECT,        35, FLYING,       100, 35
 	move DRILL_PECK,   NO_ADDITIONAL_EFFECT,        80, FLYING,       100, 20
-	move SUBMISSION,   RECOIL_EFFECT,               80, FIGHTING,     100, 25
-	move LOW_KICK,     FLINCH_SIDE_EFFECT2,         50, FIGHTING,     100, 20
+	move SUBMISSION,   RECOIL_EFFECT,              100, FIGHTING,     100, 25
+	move LOW_KICK,     FLINCH_SIDE_EFFECT2,         60, FIGHTING,     100, 20
 	move COUNTER,      NO_ADDITIONAL_EFFECT,         1, FIGHTING,     100, 20
 	move SEISMIC_TOSS, SPECIAL_DAMAGE_EFFECT,        1, FIGHTING,     100, 20
 	move STRENGTH,     NO_ADDITIONAL_EFFECT,        80, NORMAL,       100, 15
-	move ABSORB,       DRAIN_HP_EFFECT,             30, GRASS,        100, 25
-	move MEGA_DRAIN,   DRAIN_HP_EFFECT,             65, GRASS,        100, 20
+	move ABSORB,       DRAIN_HP_EFFECT,             35, GRASS,        100, 25
+	move MEGA_DRAIN,   DRAIN_HP_EFFECT,             70, GRASS,        100, 20
 	move LEECH_SEED,   LEECH_SEED_EFFECT,            0, GRASS,         90, 10
 	move GROWTH,       SPECIAL_UP1_EFFECT,           0, BIRD,         100, 40
 	move RAZOR_LEAF,   NO_ADDITIONAL_EFFECT,        55, GRASS,         95, 25
@@ -122,7 +122,7 @@ Moves:
 	move CONFUSE_RAY,  CONFUSION_EFFECT,             0, GHOST,        100, 10
 	move WITHDRAW,     DEFENSE_UP1_EFFECT,           0, BIRD,         100, 40
 	move DEFENSE_CURL, DEFENSE_UP1_EFFECT,           0, BIRD,         100, 40
-	move BARRIER,      DEFENSE_UP2_EFFECT,           0, BIRD,	        100, 30
+	move BARRIER,      DEFENSE_UP2_EFFECT,           0, BIRD,	      100, 30
 	move LIGHT_SCREEN, LIGHT_SCREEN_EFFECT,          0, BIRD,         100, 30
 	move HAZE,         HAZE_EFFECT,                  0, BIRD,         100, 30
 	move REFLECT,      REFLECT_EFFECT,               0, BIRD,         100, 20
@@ -137,7 +137,7 @@ Moves:
 	move SLUDGE,       POISON_SIDE_EFFECT2,         90, POISON,       100, 20
 	move BONE_CLUB,    FLINCH_SIDE_EFFECT1,         65, GROUND,       100, 20
 	move FIRE_BLAST,   BURN_SIDE_EFFECT2,          120, FIRE,          85,  5
-	move WATERFALL,    FLINCH_SIDE_EFFECT1,         70, WATER,        100, 15
+	move WATERFALL,    FLINCH_SIDE_EFFECT1,         80, WATER,        100, 15
 	move CLAMP,        TRAPPING_EFFECT,             35, WATER,         85, 10
 	move SWIFT,        SWIFT_EFFECT,                60, NORMAL,       100, 20
 	move SKULL_BASH,   HYPER_BEAM_EFFECT,          100, NORMAL,       100, 15
@@ -156,7 +156,7 @@ Moves:
 	move SKY_ATTACK,   NO_ADDITIONAL_EFFECT,        120, FLYING,       85, 10
 	move TRANSFORM,    TRANSFORM_EFFECT,             0, BIRD,         100, 10
 	move BUBBLE,       SPEED_DOWN_SIDE_EFFECT,      10, WATER,        100, 30
-	move DIZZY_PUNCH,  CONFUSION_SIDE_EFFECT,       70, NORMAL,       100, 20
+	move DIZZY_PUNCH,  CONFUSION_SIDE_EFFECT,       80, NORMAL,       100, 20
 	move SPORE,        SLEEP_EFFECT,                 0, GRASS,        100, 15
 	move FLASH,        ACCURACY_DOWN1_EFFECT,        0, BIRD,          70, 20
 	move PSYWAVE,      SPECIAL_DAMAGE_EFFECT,        1, PSYCHIC_TYPE,  95, 15
@@ -165,13 +165,13 @@ Moves:
 	move CRABHAMMER,   NO_ADDITIONAL_EFFECT,       110, WATER,        100, 10
 	move EXPLOSION,    EXPLODE_EFFECT,             250, NORMAL,       100,  5
 	move FURY_SWIPES,  TWO_TO_FIVE_ATTACKS_EFFECT,  20, NORMAL,       100, 20
-	move BONEMERANG,   ATTACK_TWICE_EFFECT,         50, GROUND,        90, 20
+	move BONEMERANG,   ATTACK_TWICE_EFFECT,         60, GROUND,        90, 20
 	move REST,         HEAL_EFFECT,                  0, BIRD,         100, 10
 	move ROCK_SLIDE,   FLINCH_SIDE_EFFECT1,         75, ROCK,          95, 15
-	move HYPER_FANG,   FLINCH_SIDE_EFFECT1,         80, NORMAL,        90, 15
+	move HYPER_FANG,   FLINCH_SIDE_EFFECT1,         95, NORMAL,        90, 15
 	move SHARPEN,      ATTACK_UP1_EFFECT,            0, BIRD,         100, 30
 	move CONVERSION,   CONVERSION_EFFECT,            0, BIRD,         100, 30
-	move TRI_ATTACK,   BURN_SIDE_EFFECT2,            85, NORMAL,       100, 15
+	move TRI_ATTACK,   BURN_SIDE_EFFECT2,            85, NORMAL,      100, 15
 	move SUPER_FANG,   SUPER_FANG_EFFECT,            1, NORMAL,        90, 10
 	move SLASH,        NO_ADDITIONAL_EFFECT,        70, NORMAL,       100, 20
 	move SUBSTITUTE,   SUBSTITUTE_EFFECT,            0, BIRD,         100, 10
