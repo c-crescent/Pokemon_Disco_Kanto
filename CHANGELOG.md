@@ -12,6 +12,10 @@
 
 ### Pokemon
 
+> Butterfree  
+SPC: 90(+10)  
+Notes: More stats because it needs them.
+
 > Hitmonchan  
 ATK: 85(+35)  
 SPC: 85(-20)  
