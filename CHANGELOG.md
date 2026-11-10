@@ -69,6 +69,12 @@ Learns Psychic (TM)
 Learns Psybeam (28)  
 Notes: Gives a special niche and unique typing.
 
+> Pidgey
+Now evolves at 15.
+
+> Pidgeotto  
+Now evolves at 30.
+
 > Pidgeot  
 SPC: 90(+20)   
 Notes: New niche as special tank and can use Mirror Move / Mimic.
