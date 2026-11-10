@@ -2,6 +2,10 @@
 
 ## World
 
+### Movement
+
+- Holding B now walks. Running is the default.
+
 ### Encounters
 
 - Encounter rates normalised. Now 5.5% at the lowest.

@@ -262,16 +262,15 @@ OverworldLoopLessDelay::
 	ld a, [wNoSprintSteps]
 	cp 0
 	jr nz, .notRunning ; Don't sprite right after jumping a ledge
-	; Make you surf at bike speed
+	; Surfing is always faster; only walking checks B.
 	ld a,[wWalkBikeSurfState]
 	cp a, $02
-	jr z, .surfFaster
-	; Add running shoes
-	ld a, [hJoyHeld] ; Check what buttons are being pressed
-	and B_BUTTON ; Are you holding B?
-	jr z, .notRunning ; If you aren't holding B, skip ahead to step normally.
-.surfFaster
-	call DoBikeSpeedup ; Make you go faster if you were holding B
+	jr z, .speedUp
+	ld a, [hJoyHeld]
+	and B_BUTTON
+	jr nz, .notRunning ; Holding B keeps walking speed.
+.speedUp
+	call DoBikeSpeedup ;
 .notRunning ; Normal code resumes here
 	ld a, [wNoSprintSteps] ; Load the value from wNoSpriteSteps into register a
 	cp 0                  ; Compare the value in a with 0
