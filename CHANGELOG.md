@@ -6,6 +6,12 @@
 
 - Encounter rates normalised. Now 5.5% at the lowest.
 
+> ROUTE 23  
+- Now has Snorlax
+
+> CERULEAN CAVE 2F
+- Now has Pikachu
+
 ### Game Corner
 
 - Dragon Rage TM: 500 Coins

@@ -5,7 +5,7 @@ Route23WildMons:
 	db 51, PRIMEAPE
 	db 49, NIDOKING
 	db 49, NIDOQUEEN
-	db 50, FEAROW
+	db 50, SNORLAX
 	db  5, SQUIRTLE
 	db  5, BULBASAUR
 	db  5, CHARMANDER
