@@ -10,9 +10,9 @@ PrizeMenuMon1Entries:
 	db "@"
 
 PrizeMenuMon1Cost:
-	bcd2 230
+	bcd2 150
+	bcd2 250
 	bcd2 500
-	bcd2 1500
 	db "@"
 
 PrizeMenuMon2Entries:
@@ -22,9 +22,9 @@ PrizeMenuMon2Entries:
 	db "@"
 
 PrizeMenuMon2Cost:
-	bcd2 1500
-	bcd2 3000
-	bcd2 4500
+	bcd2 500
+	bcd2 1000
+	bcd2 888
 	db "@"
 
 PrizeMenuTMsEntries:
@@ -34,7 +34,7 @@ PrizeMenuTMsEntries:
 	db "@"
 
 PrizeMenuTMsCost:
+	bcd2 500
+	bcd2 2500
 	bcd2 1000
-	bcd2 5000
-	bcd2 3000
 	db "@"

@@ -6,7 +6,19 @@
 
 - Encounter rates normalised. Now 5.5% at the lowest.
 
+### Game Corner
+
+- Dragon Rage TM: 500 Coins
+- Hyper Beam TM: 2500 Coins
+- Substitute TM: 1000 Coins
+
 # Battle Changes
+
+## Battles & Difficulty
+
+### Battles
+
+- Removed 1/256 miss chance in Hard Mode.
 
 ## Pokemon, Types, & Moves
 
@@ -122,3 +134,19 @@ Notes: There was no reason for this move to such a low accuracy.
 > Waterfall  
 BP: 80(+10)  
 Notes: It was already hard enough to justify it over Surf.
+
+# Encounters & Learnsets
+
+## Encounters
+
+### Static
+
+### Game Corner
+
+Abra: now costs 150 Coins.
+Seel: now costs 250 Coins.
+Magmar: now costs 500 Coins.
+
+Electabuzz: now costs 500 Coins
+Dratini: now costs 1000 Coins
+Porygon: now costs 888 Coins.
