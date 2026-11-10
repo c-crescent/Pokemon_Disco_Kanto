@@ -16,6 +16,10 @@
 SPC: 90(+10)  
 Notes: More stats because it needs them.
 
+> Farfetch'd  
+ATK: 125(+50)  
+Notes: Slow glass cannon is a good enough niche especially with the new Razor Wind.
+
 > Hitmonchan  
 ATK: 85(+35)  
 SPC: 85(-20)  
