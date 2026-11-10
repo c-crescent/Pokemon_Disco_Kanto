@@ -74,6 +74,10 @@ Learns Razor Wind (46)
 Learns Double Team (50)  
 Notes: Razor Wind is now an actual good STAB.
 
+> Seadra  
+Type: Water / Dragon  
+Notes: Adopts Kingdra's typing to separate it from other Water types.
+
 > Seaking (& Goldeen) 
 Type: Water / Normal  
 Notes: Now has Normal STAB to separate itself from other water types.
