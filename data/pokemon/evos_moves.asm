@@ -1256,6 +1256,7 @@ NinetalesEvosMoves:
 	db 13, ROAR
 	db 16, CONFUSE_RAY
 	db 25, REFLECT
+	db 28, PSYBEAM
 	db 32, FLAMETHROWER
 	db 37, NIGHT_SHADE
 	db 42, FIRE_SPIN

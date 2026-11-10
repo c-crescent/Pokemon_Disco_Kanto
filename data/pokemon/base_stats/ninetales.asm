@@ -3,7 +3,7 @@
 	db  73,  76,  75, 100, 100
 	;   hp  atk  def  spd  spc
 
-	db FIRE, FIRE ; type
+	db FIRE, PSYCHIC_TYPE ; type
 	db 75 ; catch rate
 	db 178 ; base exp
 
@@ -17,7 +17,7 @@
 	tmhm FLAMETHROWER, TOXIC, BODY_SLAM, TAKE_DOWN, DOUBLE_EDGE, HYPER_BEAM,   \
 	     RAGE,   SOLARBEAM,    DIG,      MIMIC,   DOUBLE_TEAM,   REFLECT,      \
 	     BIDE,         FIRE_BLAST,   SWIFT,        SKULL_BASH,   REST,         \
-	     SUBSTITUTE
+	     SUBSTITUTE,   PSYCHIC_M
 	; end
 
 	db 0 ; padding

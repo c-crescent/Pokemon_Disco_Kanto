@@ -58,6 +58,11 @@ ATK: 85(+35)
 SPC: 85(-20)  
 Notes: Now a mixed attacker instead of pure special, which is more on-theme.
 
+> Ninetales  
+Type: Fire / Psychic  
+Learns Psychic (TM)  
+Learns Psybeam (28)
+
 > Pidgeot  
 SPC: 90(+20)   
 Notes: New niche as special tank and can use Mirror Move / Mimic.
