@@ -73,6 +73,9 @@ Notes: Gives a special niche and unique typing.
 SPC: 90(+20)   
 Notes: New niche as special tank and can use Mirror Move / Mimic.
 
+> Raticate  
+ATK: 91(+10)
+
 > Scyther  
 Learns Razor Wind (46)  
 Learns Double Team (50)  
