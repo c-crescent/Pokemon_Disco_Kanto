@@ -12,6 +12,10 @@
 - Hyper Beam TM: 2500 Coins
 - Substitute TM: 1000 Coins
 
+### Marts
+
+- Celadon 5F now sells Rare Candies. Rare Candies are (nearly) free.
+
 # Battle Changes
 
 ## Battles & Difficulty
