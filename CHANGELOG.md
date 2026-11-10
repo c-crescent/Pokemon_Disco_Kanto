@@ -17,6 +17,10 @@ ATK: 85(+35)
 SPC: 85(-20)  
 Notes: Now a mixed attacker instead of pure special, which is more on-theme.
 
+> Pidgeot  
+SPC: 90(+20)   
+Notes: New niche as special tank and can use Mirror Move / Mimic.
+
 ### Types
 - Poison is now super effective against Water instead of Bug.
 - Ice is now not very effective against Fire.
