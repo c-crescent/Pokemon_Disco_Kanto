@@ -1321,7 +1321,7 @@ DratiniEvosMoves:
 
 DragonairEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 55, DRAGONITE
+	db EVOLVE_LEVEL, 52, DRAGONITE
 	db 0
 ; Learnset
 	db 10, THUNDER_WAVE
