@@ -573,7 +573,8 @@ ScytherEvosMoves:
 	db 30, WING_ATTACK
 	db 36, SLASH
 	db 42, TWINEEDLE
-	db 48, DOUBLE_TEAM
+	db 46, RAZOR_WIND
+	db 50, DOUBLE_TEAM
 	db 54, SWORDS_DANCE
 	db 0
 

@@ -25,6 +25,10 @@ Notes: Now a mixed attacker instead of pure special, which is more on-theme.
 SPC: 90(+20)   
 Notes: New niche as special tank and can use Mirror Move / Mimic.
 
+> Scyther  
+Learns Razor Wind (46)  
+Learns Double Team (50)
+
 ### Types
 - Poison is now super effective against Water instead of Bug.
 - Ice is now not very effective against Fire.
@@ -86,7 +90,7 @@ BP: 130 (+50)
 Type: Flying  
 Notes: Now actually worth using. Weaker than its normal equivalence due to good STAB reasons.
 
-> Rolling Kick 
+> Rolling Kick  
 BP: 75(+5)  
 Notes: Now bridge better into Jump Kick for Hitmonlee.
 
