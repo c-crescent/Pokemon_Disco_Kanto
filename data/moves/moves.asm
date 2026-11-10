@@ -31,7 +31,7 @@ Moves:
 	move WHIRLWIND,    SWITCH_AND_TELEPORT_EFFECT,   0, BIRD,          85, 20
 	move FLY,          FLY_EFFECT,                  70, FLYING,       100, 15
 	move BIND,         TRAPPING_EFFECT,             15, NORMAL,        85, 20
-	move SLAM,         FLINCH_SIDE_EFFECT1,        80,  DRAGON,       100, 20
+	move DRAGON_CLAW,  FLINCH_SIDE_EFFECT1,         80, DRAGON,       100, 20
 	move VINE_WHIP,    NO_ADDITIONAL_EFFECT,        40, GRASS,        100, 25
 	move STOMP,        FLINCH_SIDE_EFFECT2,         65, NORMAL,       100, 20
 	move DOUBLE_KICK,  ATTACK_TWICE_EFFECT,         30, FIGHTING,     100, 30

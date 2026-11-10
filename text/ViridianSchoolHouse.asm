@@ -6,11 +6,6 @@ _ViridianSchoolHouseBrunetteGirlText::
 	para "CUT is a bug-"
 	line "type move taught"
 	cont "by HM!"
-
-	para "What's this?"
-	line "I don't know"
-	cont "what type SLAM"
-	cont "is!"
 	done
 
 _ViridianSchoolHouseLittleGirlText::

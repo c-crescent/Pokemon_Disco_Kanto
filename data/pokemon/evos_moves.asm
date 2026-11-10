@@ -513,7 +513,7 @@ GyaradosEvosMoves:
 	db 32, LEER
 	db 35, THRASH
 	db 41, HYDRO_PUMP
-	db 48, SLAM
+	db 48, DRAGON_CLAW
 	db 52, HYPER_BEAM
 	db 0
 
@@ -672,7 +672,7 @@ OnixEvosMoves:
 	db 19, DIG
 	db 25, RAGE
 	db 29, HARDEN
-	db 31, SLAM
+	db 31, DRAGON_CLAW
 	db 37, ROCK_SLIDE
 	db 43, EARTHQUAKE
 	db 48, BIND
@@ -1079,7 +1079,7 @@ DragoniteEvosMoves:
 	db 10, THUNDER_WAVE
 	db 20, DRAGON_RAGE
 	db 25, AGILITY
-	db 30, SLAM
+	db 30, DRAGON_CLAW
 	db 55, WING_ATTACK
 	db 60, HYPER_BEAM
 	db 0
@@ -1313,7 +1313,7 @@ DratiniEvosMoves:
 	db 10, THUNDER_WAVE
 	db 20, DRAGON_RAGE
 	db 25, AGILITY
-	db 30, SLAM
+	db 30, DRAGON_CLAW
 	db 60, HYPER_BEAM
 	db 0
 
@@ -1325,7 +1325,7 @@ DragonairEvosMoves:
 	db 10, THUNDER_WAVE
 	db 20, DRAGON_RAGE
 	db 25, AGILITY
-	db 30, SLAM
+	db 30, DRAGON_CLAW
 	db 45, DRAGON_RAGE
 	db 60, HYPER_BEAM
 	db 0
@@ -1389,7 +1389,7 @@ SeadraEvosMoves:
 	db 30, AURORA_BEAM
 	db 33, WATERFALL
 	db 37, AGILITY
-	db 41, SLAM
+	db 41, DRAGON_CLAW
 	db 45, HYDRO_PUMP
 	db 0
 
@@ -2388,7 +2388,7 @@ CharmanderEvosMoves:
 	db 33, SLASH
 	db 38, FLAMETHROWER
 	db 46, FIRE_SPIN
-	db 50, SLAM
+	db 50, DRAGON_CLAW
 	db 0
 
 SquirtleEvosMoves:
@@ -2420,7 +2420,7 @@ CharmeleonEvosMoves:
 	db 23, BITE
 	db 33, SLASH
 	db 40, FLAMETHROWER
-	db 48, SLAM
+	db 48, DRAGON_CLAW
 	db 56, FIRE_SPIN
 	db 0
 
@@ -2453,7 +2453,7 @@ CharizardEvosMoves:
 	db 33, SLASH
 	db 36, WING_ATTACK
 	db 42, FLAMETHROWER
-	db 48, SLAM
+	db 48, DRAGON_CLAW
 	db 56, FIRE_SPIN
 	db 0
 

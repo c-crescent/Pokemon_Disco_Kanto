@@ -27,7 +27,7 @@ ExclamationPointMoveSets:
 	db WING_ATTACK
 	db FLY
 	db BIND
-	db SLAM
+	db DRAGON_CLAW
 	db HORN_ATTACK
 	db BODY_SLAM
 	db WRAP
