@@ -6,11 +6,17 @@
 
 - Encounter rates normalised. Now 5.5% at the lowest.
 
+> ROUTE 20
+- Now has Lapras
+
 > ROUTE 23  
 - Now has Snorlax
 
 > CERULEAN CAVE 2F
 - Now has Pikachu
+
+> CERULEAN CAVE B1F
+- Now has Aerodactyl
 
 ### Game Corner
 

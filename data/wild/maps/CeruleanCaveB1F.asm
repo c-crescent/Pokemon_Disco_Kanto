@@ -9,7 +9,7 @@ CeruleanCaveB1FWildMons:
 	db 64, KADABRA
 	db 63, DITTO
 	db 64, DITTO
-	db 65, ALAKAZAM
+	db 65, AERODACTYL
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

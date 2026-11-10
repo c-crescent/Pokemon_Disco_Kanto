@@ -12,5 +12,5 @@ Route20WildMons:
 	db 25, TENTACOOL
 	db 30, TENTACRUEL
 	db 35, TENTACRUEL
-	db 40, TENTACRUEL
+	db 40, LAPRAS
 	end_water_wildmons
