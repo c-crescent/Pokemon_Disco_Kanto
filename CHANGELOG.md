@@ -47,7 +47,8 @@ Notes: More stats because it needs them.
 
 > Eevee  
 Now also receives the 25% stat bonus from badge boosts.
-Now also learns Thunderbolt, Surf, and Flamethrower via TM.
+Now also learns Thunderbolt, Surf, and Flamethrower via TM.  
+Notes: Essentially makes Eevee viable as a standalone Pokemon like Pikachu.
 
 > Farfetch'd  
 ATK: 125(+50)  
@@ -61,7 +62,8 @@ Notes: Now a mixed attacker instead of pure special, which is more on-theme.
 > Ninetales  
 Type: Fire / Psychic  
 Learns Psychic (TM)  
-Learns Psybeam (28)
+Learns Psybeam (28)  
+Notes: Gives a special niche and unique typing.
 
 > Pidgeot  
 SPC: 90(+20)   
@@ -71,6 +73,10 @@ Notes: New niche as special tank and can use Mirror Move / Mimic.
 Learns Razor Wind (46)  
 Learns Double Team (50)  
 Notes: Razor Wind is now an actual good STAB.
+
+> Seaking (& Goldeen) 
+Type: Water / Normal  
+Notes: Now has Normal STAB to separate itself from other water types.
 
 > Tangela  
 HP: 80(+15)  
