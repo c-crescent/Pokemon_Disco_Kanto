@@ -27,7 +27,12 @@ Notes: New niche as special tank and can use Mirror Move / Mimic.
 
 > Scyther  
 Learns Razor Wind (46)  
-Learns Double Team (50)
+Learns Double Team (50)  
+Notes: Razor Wind is now an actual good STAB.
+
+> Tangela  
+HP: 80(+15)  
+Notes: Now is actually tanky on the physical side.
 
 ### Types
 - Poison is now super effective against Water instead of Bug.
