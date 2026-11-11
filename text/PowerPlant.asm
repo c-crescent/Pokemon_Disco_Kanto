@@ -7,31 +7,19 @@ _PowerPlantZapdosBattleText::
 	text_end
 
 _PowerPlantCraigBattleText1::
-	text "I'm trying to"
-	line "complete my"
-	cont "#DEX,"
+	text "There's adversary"
+	line "in every step."
 	
-	para "for a game I'm"
-	line "making based on"
-	cont "#MON."
-
-	para "How about this…"
-
-	para "We battle,"
-	line "winner gets the"
-	cont "bird."
+	para "Let's see if you"
+	line "can overcome this."
 	done
 	
 _PowerPlantCraigEndBattleText1::
-	text "This is"
-	line "good data!"
-
-	para "I can use this."
-	prompt
+	text "Marvelous, one"
+	line "step closer then."
+	done
 	
 _PowerPlantCraigAfterBattleText1::
-	text "Can I see the"
-	line "#DEX entry"
-	cont "once you catch"
-	cont "it?"
+	text "May our paths"
+	line "cross again."
 	done

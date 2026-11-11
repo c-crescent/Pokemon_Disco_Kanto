@@ -357,7 +357,7 @@ CreditsText_Pret4:
 	db -4, "DISASSEMBLY@"
 
 CreditsText_SmithPlaysPokemon:
-	db -7, "SMITHPLAYSPOKEMON@"
+	db -7, "VIVIAN DARKBLOOM@"
 
 CreditsText_Smith:
 	db -6, "THE SMITH PLAYS@"

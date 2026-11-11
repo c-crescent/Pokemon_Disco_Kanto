@@ -40,6 +40,7 @@
 ### Battles
 
 - Removed 1/256 miss chance in Hard Mode.
+- Replaced previous developer self-inserts with my own self-insert.
 
 ## Pokemon, Types, & Moves
 

@@ -16,27 +16,21 @@ _SeafoamIslandsB4FDangerSignText::
 _SeafoamIslandsWeebraBattleText1::
 	text "You gotta be"
 	line "pretty strong"
-	cont "to get this far," 
-	cont "huh?"
+	cont "to get this far."
 	
 	para "Then I guess"
-	line "we don't gotta"
+	line "there's no need to"
 	cont "pull any punches."
 	done
 	
 _SeafoamIslandsWeebraEndBattleText1::
 	text "Nice moves!"
 
-	para "I almost got off"
-	line "my 'Essence of"
-	cont "Beast Style' too!"
+	para "I'll let you"
+	line "through for now."
 	done
 
 _SeafoamIslandsWeebraAfterBattleText1::
-	text "Honestly I prefer"
-	line "my team fresh"
-	cont "never frozen,"
-
-	para "but you do you,"
-	line "bro!"
+	text "May our paths"
+	line "cross again."
 	done

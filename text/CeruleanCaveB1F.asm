@@ -3,28 +3,23 @@ _MewtwoBattleText::
 	text_end
 
 _CeruleanCaveSmithBattleText1::
-	text "Hey, what's up?"
+	text "The ultimate prize"
+	line "stands before you."
 
-	para "Show me how much"
-	line "zest you've got!"
+	para "Show me how"
+	line "badly you want it!"
 	done
 	
 _CeruleanCaveSmithEndBattleText1::
-	text "Wow!"
+	text "Excellent!"
 	
-	para "You've got zest!"
-
-	para "I love to see"
-	line "that."
+	para "You've earnt it!"
 	prompt
 	
 _CeruleanCaveSmithAfterBattleText1::
-	text "What zest!"
+	text "Remember..."
 	
-	para "You should be"
-	line "able to handle"
-	cont "yourself in this"
-	cont "cave!"
-
-	para "Good luck, nerd!"
+	para "There are still"
+	line "more mysteries"
+	cont "out there."
 	done
