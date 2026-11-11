@@ -32,6 +32,7 @@
 
 - Celadon 5F now sells Rare Candies. Rare Candies are (nearly) free.
 - Indigo Plateu Mart now sells Master Balls.
+- Viridian Mart now sells both.
 
 # Battle Changes
 
