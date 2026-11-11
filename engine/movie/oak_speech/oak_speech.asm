@@ -104,7 +104,8 @@ OakSpeech:
 	call PrintText     ; show this text
 	call BoyGirlChoice ; added routine at the end of this file
 	ld a, [wCurrentMenuItem]
-	ld [wPlayerGender], a ; store player's gender. 00 for boy, 01 for girl
+	xor 1
+	ld [wPlayerGender], a ; first choice stores 1; second choice stores 0
 	call ClearScreen ; clear the screen before resuming normal intro
 
 	ld de, ProfOakPic

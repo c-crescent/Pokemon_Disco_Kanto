@@ -27,8 +27,8 @@ TwoOptionMenuStrings:
 	next "NO@"
 
 .BoyGirlMenu:
-	db   "BOY"
-	next "GIRL@"
+	db   "GIRL"
+	next "BOY@"
 
 .SouthEastMenu:
 	db   "SOUTH"

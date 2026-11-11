@@ -1308,6 +1308,6 @@ _AreYouSureText::
 	done
 
 _BoyGirlText::
-    text "Play as a boy, or"
-    line "as a girl?"
+    text "Play as a girl,"
+    line "or as a boy?"
     done
