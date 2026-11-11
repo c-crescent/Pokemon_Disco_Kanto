@@ -153,18 +153,15 @@ _OaksLabGirlText::
 
 	para "We were shocked"
 	line "to recently learn"
-	cont "about the inter-"
-	cont "action of bug"
-	cont "and poison."
-
-	para "Poison is"
-	line "strong against"
+	para "that poison is"
+	line "resistant to"
 	cont "bug-types."
 	
-	para "It seems that"
-	line "bug is no longer"
-	cont "strong against"
-	cont "poison, however!"
+	para "And is strong"
+	line "against water."
+
+	para "I guess it"
+	line "makes sense."
 	done
 
 _OaksLabRivalFedUpWithWaitingText::
